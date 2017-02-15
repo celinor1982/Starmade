@@ -1,0 +1,2 @@
+# Starmade
+Starmade Bug Reports
